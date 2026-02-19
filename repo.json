@@ -1,0 +1,12 @@
+{
+  "name": "My Media Helper",
+  "description": "Smart media resolver",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "Helper",
+      "version": 1,
+      "url": "https://YOURNAME.github.io/media-helper/helper.jar"
+    }
+  ]
+}
